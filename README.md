@@ -1,6 +1,6 @@
 # docker-debian-nodejs
 
-a Dockerfile for nodejs on Debian stable
+a Dockerfile for nodejs on Debian unstable
 
 ## how to
 
